@@ -17,7 +17,7 @@
 
 ### Installing Python
 1. Install Python (e.g., version 3.12) and ensure the 'Pip' box is checked under installation options.
-2. Download Python from [python.org](https://www.python.org/downloads/).
+2. You can download Python from [python.org](https://www.python.org/downloads/).
 
 ### Checking and Downloading Dependencies
 1. Open the Command Prompt. On a Windows machine, type `cd` or `cmd` into the search bar.
